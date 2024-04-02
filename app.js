@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 function sortear(){
     let quantidadeNumero= parseInt(document.getElementById('quantidade').value);
     let doNumero = parseInt(document.getElementById('de').value);
@@ -70,7 +69,7 @@ function limparCampos(){
     document.getElementById('quantidade').value = '';
     document.getElementById('de').value = '';
     document.getElementById('ate').value = '';
-=======
+}
 function sortear(){
     let quantidadeNumero= parseInt(document.getElementById('quantidade').value);
     let doNumero = parseInt(document.getElementById('de').value);
@@ -142,5 +141,4 @@ function limparCampos(){
     document.getElementById('quantidade').value = '';
     document.getElementById('de').value = '';
     document.getElementById('ate').value = '';
->>>>>>> 3a593427b3fe5eddee8c51b4682dc8cd940a3dd5
 }
